@@ -1,0 +1,138 @@
+2025-07-19 12:53:30 | OS: Ubuntu
+2025-07-19 12:53:30 | Package update mode: DEBIAN
+2025-07-19 12:53:30 | Package update sub-mode: UBUNTU
+2025-07-19 12:53:30 | Performing system update.
+2025-07-19 12:53:30 | 
+2025-07-19 12:53:30 | WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+2025-07-19 12:53:30 | 
+2025-07-19 12:53:31 | Get:1 http://security.ubuntu.com/ubuntu jammy-security InRelease [129 kB]
+2025-07-19 12:53:31 | Hit:2 http://us.archive.ubuntu.com/ubuntu jammy InRelease
+2025-07-19 12:53:31 | Get:3 http://us.archive.ubuntu.com/ubuntu jammy-updates InRelease [128 kB]
+2025-07-19 12:53:31 | Get:4 http://us.archive.ubuntu.com/ubuntu jammy-backports InRelease [127 kB]
+2025-07-19 12:53:31 | Hit:5 http://repo.percona.com/pmm2-client/apt jammy InRelease
+2025-07-19 12:53:31 | Hit:6 http://repo.percona.com/prel/apt jammy InRelease
+2025-07-19 12:53:31 | Get:7 http://security.ubuntu.com/ubuntu jammy-security/main amd64 DEP-11 Metadata [54.6 kB]
+2025-07-19 12:53:31 | Get:8 http://us.archive.ubuntu.com/ubuntu jammy-updates/main i386 Packages [845 kB]
+2025-07-19 12:53:31 | Hit:9 http://repo.percona.com/telemetry/apt jammy InRelease
+2025-07-19 12:53:31 | Get:10 https://repo.mongodb.org/apt/ubuntu jammy/mongodb-org/8.0 InRelease [3,005 B]
+2025-07-19 12:53:31 | Get:11 http://security.ubuntu.com/ubuntu jammy-security/restricted amd64 DEP-11 Metadata [208 B]
+2025-07-19 12:53:32 | Get:12 http://us.archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages [2,757 kB]
+2025-07-19 12:53:32 | Get:13 http://security.ubuntu.com/ubuntu jammy-security/universe amd64 DEP-11 Metadata [125 kB]
+2025-07-19 12:53:32 | Get:14 http://security.ubuntu.com/ubuntu jammy-security/multiverse amd64 DEP-11 Metadata [208 B]
+2025-07-19 12:53:32 | Get:15 https://repo.mongodb.org/apt/ubuntu jammy/mongodb-org/8.0/multiverse arm64 Packages [42.7 kB]
+2025-07-19 12:53:32 | Get:16 http://us.archive.ubuntu.com/ubuntu jammy-updates/main amd64 DEP-11 Metadata [114 kB]
+2025-07-19 12:53:32 | Get:17 http://us.archive.ubuntu.com/ubuntu jammy-updates/restricted amd64 DEP-11 Metadata [212 B]
+2025-07-19 12:53:32 | Get:18 http://us.archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages [1,224 kB]
+2025-07-19 12:53:32 | Get:19 https://repo.mongodb.org/apt/ubuntu jammy/mongodb-org/8.0/multiverse amd64 Packages [43.0 kB]
+2025-07-19 12:53:32 | Get:20 http://us.archive.ubuntu.com/ubuntu jammy-updates/universe i386 Packages [778 kB]
+2025-07-19 12:53:32 | Get:21 http://us.archive.ubuntu.com/ubuntu jammy-updates/universe amd64 DEP-11 Metadata [359 kB]
+2025-07-19 12:53:32 | Get:22 http://us.archive.ubuntu.com/ubuntu jammy-updates/multiverse amd64 DEP-11 Metadata [940 B]
+2025-07-19 12:53:32 | Get:23 http://us.archive.ubuntu.com/ubuntu jammy-backports/main amd64 DEP-11 Metadata [7,104 B]
+2025-07-19 12:53:32 | Get:24 http://us.archive.ubuntu.com/ubuntu jammy-backports/restricted amd64 DEP-11 Metadata [212 B]
+2025-07-19 12:53:32 | Get:25 http://us.archive.ubuntu.com/ubuntu jammy-backports/universe amd64 DEP-11 Metadata [14.0 kB]
+2025-07-19 12:53:32 | Get:26 http://us.archive.ubuntu.com/ubuntu jammy-backports/multiverse amd64 DEP-11 Metadata [212 B]
+2025-07-19 12:53:37 | Fetched 6,753 kB in 2s (3,447 kB/s)
+2025-07-19 12:53:38 | Reading package lists...
+2025-07-19 12:53:38 | Building dependency tree...
+2025-07-19 12:53:38 | Reading state information...
+2025-07-19 12:53:38 | 5 packages can be upgraded. Run 'apt list --upgradable' to see them.
+2025-07-19 12:53:38 | Exit Code was: '0'
+2025-07-19 12:53:38 | 
+2025-07-19 12:53:38 | WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+2025-07-19 12:53:38 | 
+2025-07-19 12:53:38 | Reading package lists...
+2025-07-19 12:53:38 | Building dependency tree...
+2025-07-19 12:53:38 | Reading state information...
+2025-07-19 12:53:39 | Calculating upgrade...
+2025-07-19 12:53:39 | The following packages were automatically installed and are no longer required:
+2025-07-19 12:53:39 | apg gnome-control-center-faces gnome-online-accounts libcolord-gtk1
+2025-07-19 12:53:39 | libfreerdp-server2-2 libgnome-bg-4-1 libgsound0 libgssdp-1.2-0
+2025-07-19 12:53:39 | libgupnp-1.2-1 libgupnp-av-1.0-3 libgupnp-dlna-2.0-4 libntfs-3g89
+2025-07-19 12:53:39 | librygel-core-2.6-2 librygel-db-2.6-2 librygel-renderer-2.6-2
+2025-07-19 12:53:39 | librygel-server-2.6-2 libvncserver1 mobile-broadband-provider-info
+2025-07-19 12:53:39 | network-manager-gnome python3-certifi python3-macaroonbakery
+2025-07-19 12:53:39 | python3-protobuf python3-pymacaroons python3-requests python3-rfc3339
+2025-07-19 12:53:39 | python3-tz rygel
+2025-07-19 12:53:39 | Use 'sudo apt autoremove' to remove them.
+2025-07-19 12:53:39 | Get more security updates through Ubuntu Pro with 'esm-apps' enabled:
+2025-07-19 12:53:39 | libimage-magick-perl libzvbi-common liburiparser1 libheif1 perlmagick
+2025-07-19 12:53:39 | libpostproc55 libavcodec58 libgstreamer-plugins-bad1.0-0
+2025-07-19 12:53:39 | libimage-magick-q16-perl traceroute libavutil56 libswscale5
+2025-07-19 12:53:39 | libmagickcore-6.q16-6 libswresample3 imagemagick-6-common libavformat58
+2025-07-19 12:53:39 | libzvbi0 libde265-0 libavfilter7
+2025-07-19 12:53:39 | Learn more about Ubuntu Pro at https://ubuntu.com/pro
+2025-07-19 12:53:39 | The following packages will be upgraded:
+2025-07-19 12:53:39 | libmysqlclient21 mongodb-mongosh ubuntu-advantage-tools ubuntu-pro-client
+2025-07-19 12:53:39 | ubuntu-pro-client-l10n
+2025-07-19 12:53:39 | 5 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+2025-07-19 12:53:39 | Need to get 59.5 MB of archives.
+2025-07-19 12:53:39 | After this operation, 7,022 kB of additional disk space will be used.
+2025-07-19 12:53:39 | Get:1 http://us.archive.ubuntu.com/ubuntu jammy-updates/main amd64 ubuntu-pro-client-l10n amd64 36ubuntu0~22.04 [20.6 kB]
+2025-07-19 12:53:39 | Get:2 http://us.archive.ubuntu.com/ubuntu jammy-updates/main amd64 ubuntu-pro-client amd64 36ubuntu0~22.04 [237 kB]
+2025-07-19 12:53:39 | Get:3 http://us.archive.ubuntu.com/ubuntu jammy-updates/main amd64 ubuntu-advantage-tools all 36ubuntu0~22.04 [10.9 kB]
+2025-07-19 12:53:39 | Get:4 https://repo.mongodb.org/apt/ubuntu jammy/mongodb-org/8.0/multiverse amd64 mongodb-mongosh amd64 2.5.6 [57.9 MB]
+2025-07-19 12:53:39 | Get:5 http://us.archive.ubuntu.com/ubuntu jammy-updates/main amd64 libmysqlclient21 amd64 8.0.42-0ubuntu0.22.04.2 [1,308 kB]
+2025-07-19 12:53:48 | Preconfiguring packages ...
+2025-07-19 12:53:48 | Fetched 59.5 MB in 8s (7,121 kB/s)
+2025-07-19 12:53:48 | (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 235197 files and directories currently installed.)
+2025-07-19 12:53:48 | Preparing to unpack .../ubuntu-pro-client-l10n_36ubuntu0~22.04_amd64.deb ...
+2025-07-19 12:53:48 | Unpacking ubuntu-pro-client-l10n (36ubuntu0~22.04) over (35.1ubuntu0~22.04) ...
+2025-07-19 12:53:48 | Preparing to unpack .../ubuntu-pro-client_36ubuntu0~22.04_amd64.deb ...
+2025-07-19 12:53:48 | Unpacking ubuntu-pro-client (36ubuntu0~22.04) over (35.1ubuntu0~22.04) ...
+2025-07-19 12:53:48 | Preparing to unpack .../ubuntu-advantage-tools_36ubuntu0~22.04_all.deb ...
+2025-07-19 12:53:48 | Unpacking ubuntu-advantage-tools (36ubuntu0~22.04) over (35.1ubuntu0~22.04) ...
+2025-07-19 12:53:49 | Preparing to unpack .../libmysqlclient21_8.0.42-0ubuntu0.22.04.2_amd64.deb ...
+2025-07-19 12:53:49 | Unpacking libmysqlclient21:amd64 (8.0.42-0ubuntu0.22.04.2) over (8.0.42-0ubuntu0.22.04.1) ...
+2025-07-19 12:53:49 | Preparing to unpack .../mongodb-mongosh_2.5.6_amd64.deb ...
+2025-07-19 12:53:49 | Unpacking mongodb-mongosh (2.5.6) over (2.5.3) ...
+2025-07-19 12:53:52 | Setting up mongodb-mongosh (2.5.6) ...
+2025-07-19 12:53:52 | Setting up libmysqlclient21:amd64 (8.0.42-0ubuntu0.22.04.2) ...
+2025-07-19 12:53:52 | Setting up ubuntu-pro-client (36ubuntu0~22.04) ...
+2025-07-19 12:53:52 | Installing new version of config file /etc/apparmor.d/ubuntu_pro_esm_cache ...
+2025-07-19 12:53:54 | Setting up ubuntu-pro-client-l10n (36ubuntu0~22.04) ...
+2025-07-19 12:53:54 | Setting up ubuntu-advantage-tools (36ubuntu0~22.04) ...
+2025-07-19 12:53:54 | Processing triggers for man-db (2.10.2-1) ...
+2025-07-19 12:53:54 | Processing triggers for libc-bin (2.35-0ubuntu3.10) ...
+2025-07-19 12:53:56 | Exit Code was: '0'
+2025-07-19 12:53:56 | System update completed.
+2025-07-19 12:53:56 | Installing pre-requisite packages.
+2025-07-19 12:53:56 | Using package names for UBUNTU.
+2025-07-19 12:53:56 | 
+2025-07-19 12:53:56 | WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+2025-07-19 12:53:56 | 
+2025-07-19 12:53:56 | Reading package lists...
+2025-07-19 12:53:56 | Building dependency tree...
+2025-07-19 12:53:56 | Reading state information...
+2025-07-19 12:53:56 | build-essential is already the newest version (12.9ubuntu3).
+2025-07-19 12:53:56 | libdb-dev is already the newest version (1:5.3.21~exp1ubuntu4).
+2025-07-19 12:53:56 | libffi-dev is already the newest version (3.4.2-4).
+2025-07-19 12:53:56 | libgdbm-dev is already the newest version (1.23-1).
+2025-07-19 12:53:56 | libreadline-dev is already the newest version (8.1.2-1).
+2025-07-19 12:53:56 | libapr1-dev is already the newest version (1.7.0-8ubuntu0.22.04.2).
+2025-07-19 12:53:56 | libaprutil1-dev is already the newest version (1.6.1-5ubuntu4.22.04.2).
+2025-07-19 12:53:56 | libexpat1-dev is already the newest version (2.4.7-1ubuntu0.6).
+2025-07-19 12:53:56 | libncurses5-dev is already the newest version (6.3-2ubuntu0.1).
+2025-07-19 12:53:56 | libnss3-dev is already the newest version (2:3.98-0ubuntu0.22.04.2).
+2025-07-19 12:53:56 | libpcre3-dev is already the newest version (2:8.39-13ubuntu0.22.04.1).
+2025-07-19 12:53:56 | libperl-dev is already the newest version (5.34.0-3ubuntu1.4).
+2025-07-19 12:53:56 | libssl-dev is already the newest version (3.0.2-0ubuntu1.19).
+2025-07-19 12:53:56 | libxml2-dev is already the newest version (2.9.13+dfsg-1ubuntu0.7).
+2025-07-19 12:53:56 | perl is already the newest version (5.34.0-3ubuntu1.4).
+2025-07-19 12:53:56 | python3 is already the newest version (3.10.6-1~22.04.1).
+2025-07-19 12:53:56 | python3-dev is already the newest version (3.10.6-1~22.04.1).
+2025-07-19 12:53:56 | wget is already the newest version (1.21.2-2ubuntu1.1).
+2025-07-19 12:53:56 | zlib1g-dev is already the newest version (1:1.2.11.dfsg-2ubuntu9.2).
+2025-07-19 12:53:56 | The following packages were automatically installed and are no longer required:
+2025-07-19 12:53:56 | apg gnome-control-center-faces gnome-online-accounts libcolord-gtk1
+2025-07-19 12:53:56 | libfreerdp-server2-2 libgnome-bg-4-1 libgsound0 libgssdp-1.2-0
+2025-07-19 12:53:56 | libgupnp-1.2-1 libgupnp-av-1.0-3 libgupnp-dlna-2.0-4 libntfs-3g89
+2025-07-19 12:53:56 | librygel-core-2.6-2 librygel-db-2.6-2 librygel-renderer-2.6-2
+2025-07-19 12:53:56 | librygel-server-2.6-2 libvncserver1 mobile-broadband-provider-info
+2025-07-19 12:53:56 | network-manager-gnome python3-certifi python3-macaroonbakery
+2025-07-19 12:53:56 | python3-protobuf python3-pymacaroons python3-requests python3-rfc3339
+2025-07-19 12:53:56 | python3-tz rygel
+2025-07-19 12:53:56 | Use 'sudo apt autoremove' to remove them.
+2025-07-19 12:53:56 | 0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+2025-07-19 12:53:56 | Exit Code was: '0'
+2025-07-19 12:53:56 | Installed pre-requisite packages.
+2025-07-19 12:53:56 | Installing pre-requisites for Ubuntu completed.
